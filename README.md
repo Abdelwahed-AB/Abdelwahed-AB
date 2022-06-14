@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Javascript and NodeJS
-<p>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&count_private=true&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&show_icons=true&theme=radical)
- </p>
