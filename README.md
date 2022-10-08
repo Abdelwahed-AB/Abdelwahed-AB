@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Javascript and NodeJS
+- 🌱 I’m currently learning Javascript and Express
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&count_private=true&show_icons=true&theme=radical)
 
