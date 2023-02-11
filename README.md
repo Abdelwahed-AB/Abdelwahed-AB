@@ -13,5 +13,5 @@ Skills: JS / HTML / CSS / Java / C# / C++ / C /Python
 <img align="left" src="https://github-readme-stats-cozneuv18-abdelwahed-ab.vercel.app/api/top-langs/?username=Abdelwahed-AB" />
 <img align="right" src="https://github-readme-stats-cozneuv18-abdelwahed-ab.vercel.app/api?username=Abdelwahed-AB&show_icons=true" />
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdelwahed-AB)  
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelwahed-AB" />
 
