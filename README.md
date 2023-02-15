@@ -6,7 +6,7 @@
 <div align="center">Skills: JS / HTML / CSS / Java / C# / C++ / C /Python </div>
 
 
-<div align="center">
+<div align="center" style="margin: 1rem;" style="background-color: white;">
 <a href="https://github.com/Abdelwahed-AB"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://leetcode.com/abdab/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>  
 </div>
