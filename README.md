@@ -1,5 +1,5 @@
-### Hi there 👋, My name's Abdelwahed
-#### Software engineering student
+### <div align="center">Hi there 👋, My name's Abdelwahed<div align="center">
+#### <div align="center">Software engineering student<div align="center">
 ![Software engineering student](https://pbs.twimg.com/media/D-jnXCiU0AASd7-.jpg)
 
 I'm a software engineering student at ENSA agadir, I'm currently learning javascript and express.
