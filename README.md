@@ -6,7 +6,7 @@
 <div align="center">Skills: JS / HTML / CSS / Java / C# / C++ / C /Python </div>
 
 
-<div align="center" style="margin: 1rem;" style="background-color: white;">
+<div align="center" style="margin: 1rem;">
 <a href="https://github.com/Abdelwahed-AB"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 <a href="https://leetcode.com/abdab/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>  
 </div>
@@ -14,4 +14,24 @@
 <img align="right" width="47%" src="https://github-readme-stats-cozneuv18-abdelwahed-ab.vercel.app/api?username=Abdelwahed-AB&show_icons=true&theme=transparent" />
 
 <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelwahed-AB" />
+  
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
+
+      <div class="container">
+        <h1>Test</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
