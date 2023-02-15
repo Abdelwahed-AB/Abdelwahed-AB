@@ -59,14 +59,16 @@
 <br/>  
 
 
-## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=60"/>   
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=60"/>
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/>
 <div align="center">
-<a href="https://github.com/Abdelwahed-AB" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/AbAbdelwahed" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/Abdelwahed-AB" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/AbAbdelwahed" target="_blank">
+  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/>
 </div>  
   
 
