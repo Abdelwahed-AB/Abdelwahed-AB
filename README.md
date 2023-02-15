@@ -60,7 +60,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 <br/>  
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=60"/>
+## Connect with me!
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 <div align="center">
   <a href="https://github.com/Abdelwahed-AB" target="_blank">
