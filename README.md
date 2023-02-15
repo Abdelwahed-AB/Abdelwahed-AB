@@ -52,9 +52,9 @@
 
 
 ## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Stats&fontSize=60"/> 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true&custom_title=&theme=midnight-purple&bg_color=0e1118" width="510" align="left"/></a>  
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0e1118" width="510" align="left"/></a>  
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact&custom_title=&theme=midnight-purple&bg_color=0e1118" width="310" align="right"/></a>  
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact&theme=midnight-purple&bg_color=0e1118" width="310" align="right"/></a>  
 
 <br/>  
 
