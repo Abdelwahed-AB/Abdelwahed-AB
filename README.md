@@ -7,7 +7,8 @@
 <br/>  
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Skills&fontSize=60&desc=What%20am%20I%20learning&descAlignY=75&descAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Skills&fontSize=60&desc=What%20am%20I%20learning&descAlignY=75&descAlign=60"
+     align="left"/>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 
 <br/>
