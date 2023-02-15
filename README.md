@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hi there 👋, My name's Abdelwahed</div>  
   
 
@@ -56,7 +51,7 @@
 <br/>  
 
 
-## Github Stats  
+## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Stats&height=150&fontSize=60"/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact" align="center" /></div>  
