@@ -51,15 +51,15 @@
 <br/>  
 
 
-## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Stats&fontSize=25"/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Stats&fontSize=60"/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true&custom_title=&theme=midnight-purple" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact&custom_title=&theme=midnight-purple" align="center" /></div>  
 
 <br/>  
 
 
-## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=25"/>   
+## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=60"/>   
 <div align="center">
 <a href="https://github.com/Abdelwahed-AB" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
