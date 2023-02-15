@@ -12,7 +12,7 @@
 <br/>  
 
 
-## &#160; What am I learning?
+## <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Skills&height=150&fontSize=60&desc=What%20am%20I%20learning&descAlignY=75&descAlign=60"/>
 <table><tr><td valign="top" width="33%">
 
 
