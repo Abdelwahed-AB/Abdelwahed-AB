@@ -6,9 +6,7 @@
 
 <br/>  
 
-<div align="left">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Skills&fontSize=60&desc=What%20am%20I%20learning&descAlignY=75&descAlign=60"/>
-</div>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 
 <br/>
@@ -54,9 +52,7 @@
 
 <br/>  
 
-<div align="left">
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Stats&fontSize=60"/>
-</div>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0e1118" width="510" align="left"/></a>  
 
@@ -64,9 +60,7 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 <br/>  
 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=12"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Connect%20With%20Me&fontSize=60"/>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 <div align="center">
   <a href="https://github.com/Abdelwahed-AB" target="_blank">
