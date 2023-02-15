@@ -7,7 +7,8 @@
 
 
 <div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' style="background-color:white;" alt='github' height='40'>](https://github.com/Abdelwahed-AB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/abdab/)  
+<a href="https://github.com/Abdelwahed-AB"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+<a href="https://leetcode.com/abdab/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'></a>  
 </div>
 <img align="left" width="47%" src="https://github-readme-stats-cozneuv18-abdelwahed-ab.vercel.app/api/top-langs/?username=Abdelwahed-AB&theme=transparent&langs_count=4" />
 <img align="right" width="47%" src="https://github-readme-stats-cozneuv18-abdelwahed-ab.vercel.app/api?username=Abdelwahed-AB&show_icons=true&theme=transparent" />
