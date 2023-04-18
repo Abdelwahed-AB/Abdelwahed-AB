@@ -55,9 +55,9 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=My%20Stats&fontSize=60"/>
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0e1118" width="450" align="left"/></a>  
+<a href="#"><img src="https://github-readme-stats-abdelwahed-ab.vercel.app/api?username=Abdelwahed-AB&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple&bg_color=0e1118" width="450" align="left"/></a>  
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact&theme=midnight-purple&bg_color=0e1118" width="300" align="right"/></a>  
+<a href="#"><img src="https://github-readme-stats-abdelwahed-ab.vercel.app/api/top-langs/?username=Abdelwahed-AB&hide_border=true&layout=compact&theme=midnight-purple&bg_color=0e1118" width="300" align="right"/></a>  
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=8e60f7&height=3&section=header&%20render"/></div>
 
 <div align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelwahed-AB&theme=dark&ring=703ee5&currStreakNum=ffffff&fire=eaa532&currStreakLabel=703ee5&hide_border=true&background=0E1118" width="540"/></a></div>
