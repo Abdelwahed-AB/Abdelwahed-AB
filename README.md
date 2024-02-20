@@ -63,7 +63,7 @@
 <div align="center"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelwahed-AB&theme=dark&ring=703ee5&currStreakNum=ffffff&fire=eaa532&currStreakLabel=703ee5&hide_border=true&background=0E1118" width="540"/></a></div>
 <br/>  
 
-<div align="center"> Connect with me! </div>
+<div align="center"> Connect me! </div>
 <div align="center">
   <a href="https://github.com/Abdelwahed-AB" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
