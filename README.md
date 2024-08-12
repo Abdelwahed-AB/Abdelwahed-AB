@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋, My name's Abdelwahed</div>  
   
 
-*<div align="center">I'm a software engineering student at ENSA agadir, I'm currently learning javascript, express and vue.</div>*  
+*<div align="center">I'm a software engineer</div>*  
   
 
 <br/>  
